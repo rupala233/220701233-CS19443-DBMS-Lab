@@ -1,0 +1,20 @@
+User Authentication:
+The PDMS successfully implements user registration and login functionalities. Users 
+can create accounts, login securely, and manage their profiles. User authentication is 
+verified against the database to ensure that only registered users can access the 
+system.
+
+Data Entry and Management:
+- Users can add and view their personal data, including email IDs, 
+passwords, medical records, and emergency contacts. The system provides an intuitive 
+interface for data management, ensuring ease of use.
+
+Data Retrieval:
+- The system allows users to create and retrieve their data efficiently. 
+Data retrieval is optimized to ensure quick response times.
+
+Access Control:
+- Basic access control mechanisms are in place, ensuring that only authenticated users 
+can access and manage their personal data. User data is protected by restricting access 
+based on user credentials.
+ 
