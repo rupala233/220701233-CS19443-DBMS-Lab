@@ -88,6 +88,6 @@ public class EmailPasswordManager extends JFrame {
     }
 
     public static void main(String[] args) {
-        // You should start this UI from the HomePageUI class
+        // Should start this UI from the HomePageUI class
     }
 }
